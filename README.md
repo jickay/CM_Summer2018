@@ -3,7 +3,7 @@ Jacky Tang, assessment for Critical Mass summer internship
 
 ### Work/Project Examples:
   1. Top6/Next! My first Android app
-    - Taught myself Android in summer 2017 in an effort to understand the basics of the platform
+    - Taught myself Android in summer 2017 in an effort to understand the basics of the platform by creating a minimal to-do app.
         - https://github.com/jickay/Top6
   2. Degree Navigator (In progress)
     - A personal project made with MeteorJS to visually navigate through courses and prerequisites for different certifications ranging from a High School Diploma to a University Degree. Hope is to make course planning easier and to give a broader perspective on potential paths.
