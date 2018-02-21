@@ -24,7 +24,7 @@ Jacky Tang, assessment for Critical Mass summer internship
        - https://www.meteor.com/
 
 ### Focus:
-
+Given the chance to intern at CM there would be 2 main areas of focus, the technical and the social. On the technical side, it is valuable to know what the tools and practices are being used at CM to develop these world-class web campaigns. Only having been exposed to small scale and personal projects, the experience of working on, or at least observing, how a large scale project is developed is a definite focus. For the social side, I want learn what the culture is like at CM and learn how to be a professional. Being able to see how the coordination works between workers, clients, and users would provide great insight into the social side of things. Knowing what to make and why it matters is just as important as knowing how to make it.
 
 ### Code Challenge:
   https://codepen.io/jickay/pen/wyXwWK
